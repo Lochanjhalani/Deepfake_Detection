@@ -1,0 +1,9 @@
+/venv
+__pycache__
+*.pyc
+*.pyo
+.env
+/temp
+*.h5
+training_results.png
+/dataset/    # Add this line to ignore the dataset folder
